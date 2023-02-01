@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My Amazing Site!"
+title = "Trang Hoang project"
 theme = "anubis"
 
 [menu]
