@@ -6,9 +6,9 @@ theme = "anubis"
 [menu]
 
 [[menu.main]]
-identifier = "about"
-name = "posts"
-url = "/posts/"
+identifier = "about me"
+name = "about me"
+url = "/content/post/Home.md"
 weight = 1
 
 [[menu.main]]
