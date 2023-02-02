@@ -7,19 +7,19 @@ theme = "anubis"
 
 [[menu.main]]
 identifier = "about me"
-name = "about me"
+name = "ABOUT ME"
 url = "/content/post/about_me.md"
 weight = 1
 
 [[menu.main]]
 identifier = "my project"
-name = "my project"
+name = "MY PROJECT"
 url = "/content/post/my_project.md"
 weight = 3
 
 [[menu.main]]
 identifier = "article"
-name = "article"
+name = "ARTICLE"
 url = "/content/post/article.md"
 weight = 3
 
