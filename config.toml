@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "HOME"
 theme = "anubis"
 
-
 [menu]
 
 [[menu.main]]
