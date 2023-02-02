@@ -8,17 +8,19 @@ theme = "anubis"
 [[menu.main]]
 identifier = "about me"
 name = "about me"
-url = "/content/post/Home.md"
+url = "/content/post/about_me.md"
 weight = 1
 
 [[menu.main]]
-identifier = "tags"
-name = "Tags"
-url = "/tags/"
-weight = 2
+identifier = "my project"
+name = "my project"
+url = "/content/post/my_project.md"
+weight = 3
 
 [[menu.main]]
-name = "Archive"
-identifier = "archive"
-url = "/posts/"
+identifier = "article"
+name = "article"
+url = "/content/post/article.md"
 weight = 3
+
+
