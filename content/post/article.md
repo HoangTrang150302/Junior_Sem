@@ -1,3 +1,9 @@
+---
+title: "ARTICLE"
+date: 2023-01-31T21:12:30-05:00
+draft: false
+---
+
 # Article
 
 - Link to article: https://www.sciencedirect.com/science/article/pii/S1877050910005004
